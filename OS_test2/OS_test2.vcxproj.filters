@@ -14,4 +14,38 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="filesys.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="allot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="create.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="display.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="display_memory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="initialize.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="open.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="read_write.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

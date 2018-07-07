@@ -146,6 +146,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="filesys.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="allot.cpp" />
+    <ClCompile Include="create.cpp" />
+    <ClCompile Include="display.cpp" />
+    <ClCompile Include="display_memory.cpp" />
+    <ClCompile Include="initialize.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="open.cpp" />
+    <ClCompile Include="read_write.cpp" />
+    <ClCompile Include="recycle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
